@@ -1,0 +1,6 @@
+{
+    "model": "openai/gpt-4o-mini",
+    "maxTurns": 1000,
+    "maxHistoryMessages": 10,
+    "maxStringHistory": 20
+}
